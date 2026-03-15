@@ -1,0 +1,204 @@
+INSERT INTO PERSON
+(NAME, PROFILEURL)
+VALUES
+-- 왕과사는남자
+('장항준','people1.jpg'),
+('유해진','people2.jpg'),
+('박지훈','people3.jpg'),
+('유지태','people4.jpg'),
+('전미도','people5.jpg'),
+('김민','people6.jpg'),
+('이준혁','people7.jpg'),
+('김수진','people8.jpg'),
+('오달수','people9.jpg'),
+('박순정','people10.jpg'),
+('강준','people11.jpg'),
+('박지윤','people12.jpg'),
+
+-- 브라이드
+('매기 질렌할','people13.jpg'),
+('제시 버클리','people14.jpg'),
+('크리스찬 베일','people15.jpg'),
+('피터 사스가드','people16.jpg'),
+('아네트 베닝','people17.jpg'),
+('제이크 질렌할','people18.jpg'),
+('페넬로페 크루즈','people19.jpg'),
+('줄리안 허프','people20.jpg'),
+('매튜 마허','people21.jpg'),
+('존 마가로','people22.jpg'),
+('제니 베를린','people23.jpg'),
+('루이스 캔셀미','people24.jpg');
+
+-- 매드 댄스 오피스
+('조현진','people25.jpg'), 
+('염혜란','people26.jpg'),
+('최성은','people27.jpg'),
+('우미화','people28.jpg'),
+('박호산','people29.jpg'),
+('백현진','people30.jpg'),
+('아린','people31.jpg'),
+('안동구','people32.jpg'),
+('윤상현','people33.jpg'),
+
+-- 호퍼스
+('대니얼 청','people34.jpg'),
+('파이퍼 커다','people35.jpg'),
+('바비 모이너핸','people36.jpg'),
+('존 햄','people37.jpg'),
+('캐시 나지미','people38.jpg'),
+('에두아르도 프랑코','people39.jpg'),
+('아파르나 낸셀라','people40.jpg'),
+('메릴 스트립','people41.jpg'),
+('데이브 프랭코','people42.jpg'),
+('이만 압둘 라자크','people43.jpg'),
+('톰 로우','people44.jpg'),
+('샘 리차드슨','people45.jpg');
+
+-- 휴민트
+('류승완','people46.jpg'),
+('조인성','people47.jpg'),
+('박정민','people48.jpg'),
+('박해준','people49.jpg'),
+('신세경','people50.jpg'),
+('로베르트 마서','people51.jpg'),
+('정유진','people52.jpg'),
+('박명신','people53.jpg'),
+('이신기','people54.jpg'),
+('강하경','people55.jpg'),
+('이준영','people56.jpg'),
+('김의성','people57.jpg');
+
+-- 만약에우리
+('김도영','people58.jpg'),
+('구교환','people59.jpg'),
+('문가영','people60.jpg'),
+('신정근','people61.jpg'),
+('이상엽','people62.jpg'),
+('김서원','people63.jpg'),
+('임재혁','people64.jpg'),
+('김소율','people65.jpg'),
+('강말금','people66.jpg'),
+
+-- 너의 이름은
+('신카이 마코토','people67.jpg'),
+('카미키 류노스케','people68.jpg'),
+('카미시라이시 모네','people69.jpg'),
+('타니 카논','people70.jpg'),
+('나리타 료','people71.jpg'),
+('유우키 아오이','people72.jpg'),
+('이시카와 카이토','people73.jpg'),
+('시마자키 노부나가','people74.jpg'),
+('나가사와 마사미','people75.jpg'),
+('이치하라 에츠코','people76.jpg'),
+('테라소마 마사키','people77.jpg'),
+('오오하라 사야카','people78.jpg'),
+
+-- 초속 5센티미터
+('미즈하시 켄지','people79.jpg'),
+('콘도 요시미','people80.jpg'),
+('하나무라 사토미','people81.jpg'),
+('오노우에 아야카','people82.jpg'), 
+('미즈노 리사','people83.jpg');
+
+-- 러브레터
+('이와이 슌지','people84.jpg'),
+('나카야마 미호','people85.jpg'),
+('토요카와 에츠시','people86.jpg'),
+('카시와바라 타카시','people87.jpg'),
+('사카이 미키','people88.jpg'),
+('시노하라 카츠유키','people89.jpg'),
+('한 분자쿠','people90.jpg'),
+('스즈키 케이치','people91.jpg'),
+('시오미 산세이','people92.jpg'),
+('나카무라 쿠미','people93.jpg'),
+('스즈키 란란','people94.jpg'),
+('카가 마리코','people95.jpg'),
+
+-- 괴물
+('고레에다 히로카즈','people96.jpg'),
+('안도 사쿠라','people97.jpg'),
+('나가야마 에이타','people98.jpg'),
+('쿠로카와 소야','people99.jpg'),
+('히이라기 히나타','people100.jpg'),
+('타카하타 미츠키','people101.jpg'),
+('카쿠타 아키히로','people102.jpg'),
+('나카무라 시도','people103.jpg'),
+('다나카 유코','people104.jpg');
+
+-- 배트맨 비긴즈
+('크리스토퍼 놀란','people105.jpg'),
+('리암 니슨','people106.jpg'),
+('케이티 홈즈','people107.jpg'),
+('킬리언 머피','people108.jpg'),
+('톰 윌킨슨','people109.jpg'),
+('룻거 하우어','people110.jpg'),
+('와타나베 켄','people111.jpg'),
+('마크 분 주니어','people112.jpg'),
+('라이너스 로체','people113.jpg'),
+('모건 프리먼','people114.jpg'),
+('마이클 케인','people115.jpg'),
+('게리 올드만','people116.jpg'),
+
+-- 반지의 제왕
+('피터 잭슨','people117.jpg'),
+('일라이저 우드','people118.jpg'),
+('이안 맥켈런','people119.jpg'),
+('비고 모텐슨','people120.jpg'),
+('숀 애스틴','people121.jpg'),
+('리브 타일러','people122.jpg'),
+('케이트 블란쳇','people123.jpg'),
+('존 라이스 데이비스','people124.jpg'),
+('빌리 보이드','people125.jpg'),
+('도미닉 모나한','people126.jpg'),
+('크리스토퍼 리','people127.jpg'),
+('휴고 위빙','people128.jpg');
+
+-- 캐리비안
+('고어 버빈스키','people129.jpg'),
+('조니 뎁','people130.jpg'),
+('키이라 나이틀리','people131.jpg'),
+('올랜도 블룸','people132.jpg'),
+('제프리 러쉬','people133.jpg'),
+('조 샐다나','people134.jpg'),
+('케빈 맥널리','people135.jpg'),
+('잭 데븐포트','people136.jpg'),
+('조나단 프라이스','people137.jpg'),
+('리 아렌버그','people138.jpg'),
+('맥켄지 크룩','people139.jpg'),
+('트레바 에티엔느','people140.jpg');
+
+-- 진주만
+('마이클 베이','people141.jpg'),
+('벤 애플렉','people142.jpg'),
+('케이트 베킨세일','people143.jpg'),
+('조쉬 하트넷','people144.jpg'),
+('쿠바 구딩 쥬니어','people145.jpg'),
+('톰 시즈모어','people146.jpg'),
+('알렉 볼드윈','people147.jpg'),
+('콤 피오레','people148.jpg'),
+('존 보이트','people149.jpg'),
+('윌리암 리 스콧','people150.jpg'),
+('제니퍼 가너','people151.jpg'),
+('토시 토다','people152.jpg');
+
+-- 아이언맨
+('존 파브로','people153.jpg'),
+('로버트 다우니 주니어','people154.jpg'),
+('기네스 팰트로','people155.jpg'),
+('터렌스 하워드','people156.jpg'),
+('제프 브리지스','people157.jpg'),
+('레슬리 비브','people158.jpg'),
+('파란 타히르','people159.jpg'),
+('샤운 토브','people160.jpg'),
+('빌 스미트로비치','people161.jpg'),
+('사예드 바드레야','people162.jpg'),
+('클락 그레그','people163.jpg'),
+('팀 귀니','people164.jpg');
+
+-- 태극기 휘날리며
+('강제규','people165.jpg'),
+('장동건','people166.jpg'),
+('원빈','people167.jpg'),
+('이은주','people168.jpg'),
+('공형진','people169.jpg'),
+('이영란','people170.jpg');
