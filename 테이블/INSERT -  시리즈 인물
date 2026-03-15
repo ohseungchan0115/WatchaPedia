@@ -1,0 +1,69 @@
+INSERT INTO PERSON (PERSONID, NAME, PROFILEURL) VALUES
+-- 레이디 두아
+(101, '신혜선', 'people101.jpg'),
+(102, '이준혁', 'people102.jpg'),
+(103, '박보경', 'people103.jpg'),
+(104, '정다빈', 'people104.jpg'),
+(105, '이이담', 'people105.jpg'),
+(106, '김재원', 'people106.jpg'),
+(107, '정진영', 'people107.jpg'),
+(108, '배종옥', 'people108.jpg'),
+(109, '신현승', 'people109.jpg'),
+(110, '조대희', 'people110.jpg'),
+(111, '윤태인', 'people111.jpg'),
+(112, '이화정', 'people112.jpg');
+-- 약한영웅
+INSERT INTO PERSON (PERSONID, NAME, PROFILEURL) VALUES
+(113, '박지훈', 'people113.jpg'),
+(114, '려운', 'people114.jpg'),
+(115, '최민영', 'people115.jpg'),
+(116, '이민재', 'people116.jpg'),
+(117, '배나라', 'people117.jpg'),
+(118, '이준영', 'people118.jpg'),
+(119, '유수빈', 'people119.jpg'),
+(120, '오기광', 'people120.jpg'),
+(121, '이명로', 'people121.jpg'),
+(122, '전배수', 'people122.jpg'),
+(123, '공현주', 'people123.jpg'),
+(124, '장준휘', 'people124.jpg');
+-- 은애하는 도적님아
+INSERT INTO PERSON (PERSONID, NAME, PROFILEURL) VALUES
+(125, '남지현', 'people125.jpg'),
+(126, '문상민', 'people126.jpg'),
+(127, '홍민기', 'people127.jpg'),
+(128, '한소은', 'people128.jpg'),
+(129, '최원영', 'people129.jpg'),
+(130, '하석진', 'people130.jpg'),
+(131, '이승우', 'people131.jpg'),
+(132, '김정난', 'people132.jpg'),
+(133, '김석훈', 'people133.jpg'),
+(134, '서영희', 'people134.jpg'),
+(135, '송지호', 'people135.jpg'),
+(136, '이진희', 'people136.jpg');
+-- 이 사랑 통역 되나요?
+INSERT INTO PERSON (PERSONID, NAME, PROFILEURL) VALUES
+(137, '김선호', 'people137.jpg'),
+(138, '고윤정', 'people138.jpg'),
+(139, '후쿠시 소타', 'people139.jpg'),
+(140, '최우성', 'people140.jpg'),
+(141, '김원해', 'people141.jpg'),
+(142, '이시형', 'people142.jpg'),
+(143, '전현무', 'people143.jpg'),
+(144, '나현영', 'people144.jpg'),
+(145, '문세윤', 'people145.jpg'),
+(146, '전성우', 'people146.jpg'),
+(147, '유영은', 'people147.jpg');
+-- 아너: 그녀들의 법정
+INSERT INTO PERSON (PERSONID, NAME, PROFILEURL) VALUES
+(148, '이나영', 'people148.jpg'),
+(149, '정은채', 'people149.jpg'),
+(150, '이청아', 'people150.jpg'),
+(151, '연우진', 'people151.jpg'),
+(152, '서현우', 'people152.jpg'),
+(153, '최영준', 'people153.jpg'),
+(154, '전소영', 'people154.jpg'),
+(155, '김미숙', 'people155.jpg'),
+(156, '이해영', 'people156.jpg'),
+(157, '박세현', 'people157.jpg'),
+(158, '이찬형', 'people158.jpg'),
+(159, '이충주', 'people159.jpg');
