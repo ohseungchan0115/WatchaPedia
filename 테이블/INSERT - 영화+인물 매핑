@@ -1,0 +1,66 @@
+- 영화+인물 매핑 인서트
+INSERT INTO PERSON_WORK (PERSONID, WORKID, CHARACTERNAME, ROLETYPE) VALUES
+(1, 1, '장항준', '감독'),
+(2, 1, '엄흥도', '주연'),
+(3, 1, '이홍위', '주연'),
+(4, 1, '한명회', '주연'),
+(5, 1, '매화', '조연'),
+(6, 1, '태산', '조연'),
+(7, 1, '막동아재', '조연'),
+(8, 1, '막동어멈', '조연'),
+(9, 1, '윤노인', '조연'),
+(10, 1, '이천댁', '조연'),
+(11, 1, '용이', '조연'),
+(12, 1, '막동', '조연');
+-- 브라이드
+INSERT INTO PERSON_WORK (PERSONID, WORKID, CHARACTERNAME, ROLETYPE) VALUES
+(13, 2, NULL, '감독'),
+(14, 2, NULL, '주연'),
+(15, 2, NULL, '주연'),
+(16, 2, NULL, '조연'),
+(17, 2, NULL, '조연'),
+(18, 2, NULL, '조연'),
+(19, 2, NULL, '조연'),
+(20, 2, NULL, '조연'),
+(21, 2, NULL, '조연'),
+(22, 2, NULL, '조연'),
+(23, 2, NULL, '조연'),
+(24, 2, NULL, '조연');
+-- 매드 댄스 오피스
+INSERT INTO PERSON_WORK (PERSONID, WORKID, CHARACTERNAME, ROLETYPE) VALUES
+(25, 3, NULL, '감독'),
+(26, 3, NULL, '주연'),
+(27, 3, NULL, '조연'),
+(28, 3, NULL, '조연'),
+(29, 3, NULL, '조연'),
+(30, 3, NULL, '조연'),
+(31, 3, NULL, '조연'),
+(32, 3, NULL, '조연'),
+(33, 3, NULL, '조연');
+-- 호퍼스
+INSERT INTO PERSON_WORK (PERSONID, WORKID, CHARACTERNAME, ROLETYPE) VALUES
+(34, 4, NULL, '감독'),
+(35, 4, NULL, '성우'),
+(36, 4, NULL, '성우'),
+(37, 4, NULL, '성우'),
+(38, 4, NULL, '성우'),
+(39, 4, NULL, '성우'),
+(40, 4, NULL, '성우'),
+(41, 4, NULL, '성우'),
+(42, 4, NULL, '성우'),
+(43, 4, NULL, '성우'),
+(44, 4, NULL, '성우'),
+(45, 4, NULL, '성우');
+INSERT INTO PERSON_WORK (PERSONID, WORKID, CHARACTERNAME, ROLETYPE) VALUES
+(46, 5, '류승완', '감독'),
+(47, 5, '조 과장', '주연'),
+(48, 5, '박건', '주연'),
+(49, 5, '황치성', '주연'),
+(50, 5, '채선화', '주연'),
+(51, 5, '알렉세이', '조연'),
+(52, 5, '임 대리', '조연'),
+(53, 5, '북한식당 지배인', '조연'),
+(54, 5, '금태', '조연'),
+(55, 5, '은표', '조연'),
+(56, 5, '동철', '조연'),
+(57, 5, '국정원장', '조연');
