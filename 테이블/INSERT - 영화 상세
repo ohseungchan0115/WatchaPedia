@@ -1,0 +1,20 @@
+INSERT INTO MOVIEDETAIL
+(WORKID, COUNTRY, RUNNINGTIME, BOOKINGRATE, AGERATING, TOTALAUDIENCE)
+VALUES
+(1,  '한국', 116, 58,   '12세', 8484000),
+(2,  '미국', 126, NULL, NULL,    NULL),
+(3,  '한국', 106, 5.3,  '전체', 1966),
+(4,  '미국', 104, 3.8,  '전체', 23000),
+(5,  '한국', 119, 2.4,  '15세', 1822000),
+
+(6,  '한국', 114, NULL, '15세', NULL),
+(7,  '일본', 106, NULL, '12세', NULL),
+(8,  '일본',  62, NULL, '전체', NULL),
+(9,  '일본', 117, NULL, '전체', NULL),
+(10, '일본', 126, NULL, '12세', NULL),
+(11, '미국, 영국', 139, NULL, '12세', NULL),
+(12, '뉴질랜드, 미국', 181, NULL, '12세', NULL),
+(13, '미국', 143, NULL, '12세', NULL),
+(14, '미국', 177, NULL, '12세', NULL),
+(15, '미국', 125, NULL, '12세', NULL),
+(16, '한국', 148, NULL, '15세', NULL);
