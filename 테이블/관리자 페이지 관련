@@ -1,0 +1,21 @@
+1. member 테이블에 is_admin 컬럼 추가
+
+ALTER TABLE member
+ADD COLUMN is_admin BOOLEAN DEFAULT FALSE;
+
+is_admin은 회원가입시에 기본적으로 0으로 들어감.
+0 = 일반 사용자 / 1 = 관리자
+
+2. **관리자 계정 생성**
+
+이름 admin
+아이디 admin@naver.com
+비밀번호 아무거나
+
+회원 가입후에 
+
+UPDATE member
+SET is_admin = 1
+WHERE MEMBERID = 'admin@naver.com';
+
+is_admin 1로 변경하여 관리자 권한 부여
